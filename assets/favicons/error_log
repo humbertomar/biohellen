@@ -1,0 +1,11 @@
+[23-Sep-2023 06:47:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function Ù^ai-a◊a3:8X093e7s˙pGea1÷06c=›F¢d8&4467-2QÉ,a:a6488∞93`>s¶†GÑ¡f02£(-fbd8);4ß() in /home4/ybimpo48/bio.hellenfabyene.com.br/assets/favicons/mlpgkrwc.php:80
+Stack trace:
+#0 /home4/ybimpo48/bio.hellenfabyene.com.br/assets/favicons/mlpgkrwc.php(95): or9(Array, Array)
+#1 {main}
+  thrown in /home4/ybimpo48/bio.hellenfabyene.com.br/assets/favicons/mlpgkrwc.php on line 80
+[23-Sep-2023 06:47:23 America/Fortaleza] PHP Warning:  Undefined array key -1 in /home4/ybimpo48/bio.hellenfabyene.com.br/assets/favicons/wp-login.php(23) : eval()'d code(1) : eval()'d code on line 55
+[23-Sep-2023 06:48:27 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function Å7ô580t=e	nOÜÙa—f;4() in /home4/ybimpo48/bio.hellenfabyene.com.br/assets/favicons/mlpgkrwc.php:80
+Stack trace:
+#0 /home4/ybimpo48/bio.hellenfabyene.com.br/assets/favicons/mlpgkrwc.php(95): or9(Array, Array)
+#1 {main}
+  thrown in /home4/ybimpo48/bio.hellenfabyene.com.br/assets/favicons/mlpgkrwc.php on line 80
